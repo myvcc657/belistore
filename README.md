@@ -1,0 +1,2 @@
+# belistore
+Outo config 
